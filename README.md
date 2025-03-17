@@ -15,7 +15,7 @@ So, I mainly focused on 1 language (Java) to achieve <b>almost the entire knowle
 With that I learned a lot about <b>architectures and other stuff</b> that I think someone MUST know
 for writing good code, for examples the basics are: <i>memory hierarchy</i>, <i>unordered buffer</i>, 
 <i>multi-thread computing</i>, <i>memory order</i> and so on.<br>
-I <b>don't rely</b> on <b>AI</b> and this could be a good and a bad thing, thus I <b>tolerate<b> who use it for
+I <b>don't rely</b> on <b>AI</b> and this could be a good and a bad thing, thus I <b>tolerate</b> who use it for
 <b>studying</b> new things, I don't never let it touch my code.<br>
 
 ## 💻 Projects
@@ -36,5 +36,5 @@ But that is a good thing too: the <b>time</b> and the <b>experience</b> teach us
 
 ## ☎️ Availability
 
-Actually I'm <b>not<b> open to <i>work requests</i>, but, if I am <b>free</b>, I always enjoy earing other's
+Actually I'm <b>not</b> open to <i>work requests</i>, but, if I am <b>free</b>, I always enjoy earing other's
 <b>opinion about programming</b> in general.
