@@ -29,7 +29,7 @@ under a <b>license</b>.<br>
 Currently the lib is <b>mutating</b>, but I'm working on <b>stabilizing</b> the various
 API, <b>severely testing</b> them in both <i>common</i> and <i>edge</i> cases for achieving the <b>perfect stability</b>
 with <b>good performances</b>.<br>
-I would <b>never</b> write an API that performs <b>worst</b> than an actual existing ones, because it's 
+I would <b>never</b> write an API that performs <b>worst</b> than the actual existing ones, because it's 
 <b>useless</b> since nobody would use it;
 I <b>already erased</b> many implementations because they performed <b>poorly</b>.<br>
 But that is a good thing too: the <b>time</b> and the <b>experience</b> teach us how to <b>improve</b>.<br>
