@@ -3,7 +3,7 @@
 
 ## 👋 Presentation
 
-Hi, I'm <b>Telami</b>, a 19 years old guy who wrote <b>java</b> code for almost <b>6 years</b>.<br>
+Hi, I'm <b>Telami</b>, a 20 years old guy who wrote <b>java</b> code for almost <b>7 years</b>.<br>
 
 ## 💭 Programmer Thougths
 
